@@ -1,4 +1,4 @@
-- Hi, I’m @DasunThathsara
+- Hi, I’m Dasun Thathsara
 - I’m interested in Python
 - I’m currently learning Computer Science
 
