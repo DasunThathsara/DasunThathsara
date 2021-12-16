@@ -1,4 +1,4 @@
-<h2>Hi there, my name is Dasun Thathsara</h2>
+<h1>Hi there, my name is Dasun Thathsara</h1>
 <h5>I am Computer Science Student</h5>
 
 
