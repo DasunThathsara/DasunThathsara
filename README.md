@@ -1,5 +1,5 @@
-## Hi there, my name is Dasun Thathsara
-####### I am Computer Science Student
+### Hi there, my name is Dasun Thathsara
+#### I am Computer Science Student
 
 
 Skills: Python / Java / JS / HTML / CSS / C language
