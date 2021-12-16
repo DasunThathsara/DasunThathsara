@@ -19,6 +19,8 @@ Skills: Python / Java / JS / HTML / CSS / C language
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DasunThathsara&show_icons=true)
 
+<hr>
+
 ![GitHub metrics](https://metrics.lecoq.io/DasunThathsara)  
 
 ![Profile views](https://gpvc.arturio.dev/DasunThathsara)  
