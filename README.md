@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Dasun Thathsara
 #### I am Computer Science Student
-![I am Computer Science Student](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 
 Skills: Python / Java / JS / HTML / CSS / C language
