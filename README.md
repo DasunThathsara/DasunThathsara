@@ -16,9 +16,9 @@ Skills: Python / Java / JS / HTML / CSS / C language
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DasunThathsara)](https://github.com/anuraghazra/github-readme-stats)</td>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DasunThathsara&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DasunThathsara)](https://github.com/anuraghazra/github-readme-stats)
+<hr>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=DasunThathsara&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
 
 ![GitHub metrics](https://metrics.lecoq.io/DasunThathsara)
@@ -26,3 +26,20 @@ Skills: Python / Java / JS / HTML / CSS / C language
 <hr>
 
 ![Profile views](https://gpvc.arturio.dev/DasunThathsara)  
+
+
+
+
+
+
+
+
+
+
+
+<table>
+  <tr>
+    <td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DasunThathsara)](https://github.com/anuraghazra/github-readme-stats)</td>
+    <td>![GitHub stats](https://github-readme-stats.vercel.app/api?username=DasunThathsara&show_icons=true)</td>
+  </tr>
+</table>
