@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Dasun Thathsara
+### Hi there, my name is Dasun Thathsara
 #### I am Computer Science Student
 
 
@@ -12,14 +12,6 @@ Skills: Python / Java / JS / HTML / CSS / C language
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DasunThathsara&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DasunThathsara)  
-
 ![GitHub metrics](https://metrics.lecoq.io/DasunThathsara)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DasunThathsara)  
-
 ![Profile views](https://gpvc.arturio.dev/DasunThathsara)  
-<!---
-DasunThathsara/DasunThathsara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
