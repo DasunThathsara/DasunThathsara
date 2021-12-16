@@ -23,4 +23,6 @@ Skills: Python / Java / JS / HTML / CSS / C language
 
 ![GitHub metrics](https://metrics.lecoq.io/DasunThathsara)
 
+<hr>
+
 ![Profile views](https://gpvc.arturio.dev/DasunThathsara)  
