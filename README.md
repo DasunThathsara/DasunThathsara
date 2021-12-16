@@ -15,12 +15,10 @@ Skills: Python / Java / JS / HTML / CSS / C language
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/Dasun_Thathsara)  
 
 <hr>
-<table>
-  <tr>
-    <td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DasunThathsara)](https://github.com/anuraghazra/github-readme-stats)</td>
-    <td>![GitHub stats](https://github-readme-stats.vercel.app/api?username=DasunThathsara&show_icons=true)</td>
-  </tr>
-</table>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DasunThathsara)](https://github.com/anuraghazra/github-readme-stats)</td>
+<hr>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DasunThathsara&show_icons=true)
 <hr>
 
 ![GitHub metrics](https://metrics.lecoq.io/DasunThathsara)
