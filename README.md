@@ -49,3 +49,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dasunthathsara&show_icons=true&locale=en" alt="dasunthathsara" />
 <br />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dasunthathsara&" alt="dasunthathsara" />
+
+<br />
+![GitHub metrics](https://metrics.lecoq.io/DasunThathsara)
