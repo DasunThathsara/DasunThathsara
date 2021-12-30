@@ -129,3 +129,7 @@
 
 
 <img align="center" src="https://metrics.lecoq.io/DasunThathsara" alt="dasunthathsara" />
+
+
+
+![Visitor Count](https://profile-counter.glitch.me/{DasunThathsara}/count.svg)
