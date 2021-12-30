@@ -1,11 +1,11 @@
 <h1>Hi there, my name is Dasun Thathsara</h1>
 <h5>I am Computer Science Student</h5>
-![Profile views](https://gpvc.arturio.dev/DasunThathsara)  
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dasunthathsara&label=Profile%20views&color=0e75b6&style=flat" alt="dasunthathsara" /> </p>
 
 - 🌱 I’m currently learning **.NET Framework**
 
-- 📝 I regularly write articles on [https://www.blogger.com/blog/posts/7276031159322891926](https://www.blogger.com/blog/posts/7276031159322891926)
+<p>- 📝 I regularly write articles on <a href="https://www.blogger.com/blog/posts/7276031159322891926" target="_blank" >Blog</a>
 
 - 📫 How to reach me **dasun.thathsara.sri@gmail.com**
 
