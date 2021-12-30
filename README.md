@@ -20,7 +20,7 @@
   </a>
   
   <a href="https://dev.to/dasunthathsara" target="blank">
-    <img align="center" src="https://pics.freeicons.io/uploads/icons/png/6658064271579517834-512.png" alt="dasunthathsara"   height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dasunthathsara"   height="30" width="40" />
   </a>
   
   <a href="https://twitter.com/dasunthathsara4" target="blank">
