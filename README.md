@@ -116,23 +116,3 @@
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="30" height="30"/> 
   </a> 
 </p>
-
-
-
-<img align="center" src="https://metrics.lecoq.io/DasunThathsara" alt="dasunthathsara" />
-
-<p align="center">
-<a href="https://github.com/DasunThathsara/github-profile-readme-generator/fork" target="blank">
-<img src="https://img.shields.io/github/forks/DasunThathsara/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator forks"/>
-</a>
-<a href="https://github.com/DasunThathsara/github-profile-readme-generator/stargazers" target="blank">
-<img src="https://img.shields.io/github/stars/DasunThathsara/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator stars"/>
-</a>
-<a href="https://github.com/DasunThathsara/github-profile-readme-generator/issues" target="blank">
-<img src="https://img.shields.io/github/issues/DasunThathsara/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator issues"/>
-</a>
-<a href="https://github.com/DasunThathsara/github-profile-readme-generator/pulls" target="blank">
-<img src="https://img.shields.io/github/issues-pr/DasunThathsara/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
-</a>
-</p>
-
