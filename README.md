@@ -117,14 +117,6 @@
   </a> 
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dasunthathsara&show_icons=true&locale=en&layout=compact" alt="dasunthathsara" />
-<br />
-<table border="0">
-  <tr>
-    <th><img align="center" src="https://github-readme-stats.vercel.app/api?username=dasunthathsara&show_icons=true&locale=en" alt="dasunthathsara" /></th>
-    <th><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dasunthathsara&" alt="dasunthathsara" /></th>
-  </tr>
- </table>
 
 
 <img align="center" src="https://metrics.lecoq.io/DasunThathsara" alt="dasunthathsara" />
@@ -144,4 +136,3 @@
 </a>
 </p>
 
-![Visitor Count](https://profile-counter.glitch.me/{DasunThathsara}/count.svg)
