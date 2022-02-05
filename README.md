@@ -1,5 +1,4 @@
-<h1>Hi there, my name is Dasun Thathsara</h1>
-<h5>I am Computer Science Student</h5>
+<img src="https://github.com/DasunThathsara/Dasun_Thathsara/blob/main/images/Dasun%20Thathsara.png" />
 
 - 🌱 I’m currently learning **.NET Framework**
 
@@ -10,7 +9,6 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-<img src="https://github.com/DasunThathsara/Dasun_Thathsara/blob/main/images/Dasun%20Thathsara.png" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
