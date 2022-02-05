@@ -1,4 +1,6 @@
-<img src="https://github.com/DasunThathsara/Dasun_Thathsara/blob/main/images/Dasun%20Thathsara.png" />
+<h1>Hi there, my name is Dasun Thathsara</h1>
+<h5>I am Computer Science Student</h5>
+< ! img src="https://github.com/DasunThathsara/Dasun_Thathsara/blob/main/images/Dasun%20Thathsara.png" >
 
 - 🌱 I’m currently learning **.NET Framework**
 
