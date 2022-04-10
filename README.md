@@ -104,6 +104,5 @@
 </p>
 
 <br />
-<br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dasunthathsara&show_icons=true&locale=en&layout=compact" alt="dasunthathsara" />
 <img  src="https://metrics.lecoq.io/dasunthathsara" alt="dasunthathsara" />
