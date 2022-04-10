@@ -102,3 +102,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="30" height="30"/> 
   </a> 
 </p>
+
+<br />
+<br />
+<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dasunthathsara&show_icons=true&locale=en&layout=compact" alt="dasunthathsara" />
+
+<br />
+<img  src="https://metrics.lecoq.io/dasunthathsara" alt="dasunthathsara" />
