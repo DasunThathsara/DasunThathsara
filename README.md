@@ -1,7 +1,7 @@
 <h1>Hi there, my name is Dasun Thathsara</h1>
 <h5>I am Computer Science Student</h5>
 
-- 🌱 I’m currently learning **.NET Framework**
+- 🌱 I’m currently learning **.NET and Flask**
 
 - 📝 I regularly write articles on <a href="https://www.blogger.com/blog/posts/7276031159322891926" target="_blank" ><b>Blog</b></a>
 
