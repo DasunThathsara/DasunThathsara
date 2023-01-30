@@ -103,3 +103,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="30" height="30"/> 
   </a--> 
 </p>
+
+
+<br />
+![](https://komarev.com/ghpvc/?username=DasunThathsara&color=green)
