@@ -6,7 +6,7 @@
 - 📝 I regularly write articles on <a href="https://www.blogger.com/blog/posts/7276031159322891926" target="_blank" ><b>Blog</b></a>
 
 - 📫 How to reach me **dasun.thathsara.sri@gmail.com**
-- <b></></b> <a href="https://dasunthathsara.github.io/Portfolio/">Personal Website</a>
+- <b></> <a href="https://dasunthathsara.github.io/Portfolio/">Personal Website</a></b>
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
