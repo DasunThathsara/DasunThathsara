@@ -48,11 +48,15 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/> 
   </a--> 
   
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+  <a href="#" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> 
   </a>
   
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
+  <a href="#" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c" width="30" height="30"/> 
+  </a>
+  
+  <a href="#" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/> 
   </a> 
   
