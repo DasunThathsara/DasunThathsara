@@ -87,5 +87,5 @@
   <img src="https://www.kindpng.com/picc/m/188-1882416_flask-python-logo-hd-png-download.png" alt="scala" width="30" height="30"/>
 </p>
 
-
+<br />
 ![](https://komarev.com/ghpvc/?username=DasunThathsara&color=green)
