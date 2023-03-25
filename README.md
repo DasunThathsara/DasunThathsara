@@ -88,5 +88,4 @@
 </p>
 
 <br />
-![](https://komarev.com/ghpvc/?username=DasunThathsara&color=green)
-<a href="https://hits.sh/github.com/DasunThathsara/"><img alt="Hits" src="https://hits.sh/github.com/DasunThathsara.svg"/></a>
+<a href="https://hits.sh/github.com/DasunThathsara/"><img alt="Views" src="https://hits.sh/github.com/DasunThathsara.svg"/></a>
