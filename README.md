@@ -88,4 +88,6 @@
 </p>
 
 <br />
-<a href="https://hits.sh/github.com/DasunThathsara/"><img alt="Hits" src="https://hits.sh/github.com/DasunThathsara.svg?label=Views"/></a>
+<a href="https://hits.sh/github.com/DasunThathsara/">
+  <img alt="Hits" src="https://hits.sh/github.com/DasunThathsara.svg?label=Views"/>
+</a>
