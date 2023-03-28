@@ -84,7 +84,7 @@
   </a--> 
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="30" height="30"/>
-  <img src="https://www.kindpng.com/picc/m/188-1882416_flask-python-logo-hd-png-download.png" alt="scala" width="30" height="30"/>
+  <!--img src="https://www.kindpng.com/picc/m/188-1882416_flask-python-logo-hd-png-download.png" alt="scala" width="30" height="30"/-->
 </p>
 
 <br />
