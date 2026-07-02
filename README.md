@@ -5,13 +5,6 @@
 
 Welcome to my GitHub profile! I'm passionate about building software and constantly learning new technologies. 
 
-### 👨‍💻 About Me
-
-- 📝 I regularly write articles on my [Blog](https://www.blogger.com/blog/posts/7276031159322891926)
-- 🌐 Check out my [Personal Portfolio](https://dasunthathsara.me/)
-- 📫 How to reach me: **[dasun.thathsara.sri@gmail.com](mailto:dasun.thathsara.sri@gmail.com)**
-
----
 
 ### 🛠️ Languages & Tools
 
